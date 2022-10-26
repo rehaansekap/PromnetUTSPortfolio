@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PromnetUTSPortfolio/static/css/main.148b751c.css",
+    "main.js": "/PromnetUTSPortfolio/static/js/main.69cb7e9b.js",
+    "static/js/787.b5c90032.chunk.js": "/PromnetUTSPortfolio/static/js/787.b5c90032.chunk.js",
+    "static/media/note.png": "/PromnetUTSPortfolio/static/media/note.8f1d2e9efb9781866f88.png",
+    "static/media/diir.png": "/PromnetUTSPortfolio/static/media/diir.fd6238c57be42386ff82.png",
+    "static/media/man.png": "/PromnetUTSPortfolio/static/media/man.695835ebd1a30900a58d.png",
+    "static/media/hoby_3.png": "/PromnetUTSPortfolio/static/media/hoby_3.3ba9a1ec9855b248ad36.png",
+    "static/media/hoby_2.png": "/PromnetUTSPortfolio/static/media/hoby_2.bb96f2d75ba52811d8ee.png",
+    "static/media/whatsapp.png": "/PromnetUTSPortfolio/static/media/whatsapp.a033d6d944d242634817.png",
+    "static/media/instagram.png": "/PromnetUTSPortfolio/static/media/instagram.d71d7808ac215aacd9a2.png",
+    "static/media/telegram.png": "/PromnetUTSPortfolio/static/media/telegram.5b2a6d1dfda2b56f19f1.png",
+    "static/media/linkedin.png": "/PromnetUTSPortfolio/static/media/linkedin.8f5fbe4eb962d94722ce.png",
+    "index.html": "/PromnetUTSPortfolio/index.html",
+    "main.148b751c.css.map": "/PromnetUTSPortfolio/static/css/main.148b751c.css.map",
+    "main.69cb7e9b.js.map": "/PromnetUTSPortfolio/static/js/main.69cb7e9b.js.map",
+    "787.b5c90032.chunk.js.map": "/PromnetUTSPortfolio/static/js/787.b5c90032.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.148b751c.css",
+    "static/js/main.69cb7e9b.js"
+  ]
+}
